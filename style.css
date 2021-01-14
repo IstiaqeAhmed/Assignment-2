@@ -1,0 +1,23 @@
+.button{
+    height: 50px;
+    padding-left: 50px;
+    text-align: center;
+    /* padding-left: 36px;
+    padding-right: 10px; */
+    border: 1px solid #000000;
+    url("Logo, Icon/shopping-cart\ 1.png") no-repeat 10px center;
+    cursor: pointer
+}
+.footer {
+/* position: absolute; */
+left: 49.1%;
+right: 9.31%;
+top: 79.42%;
+bottom: 8.39%;
+}
+.casual{
+    height: 100%;
+    width: 100%;
+    size: 100px;
+ 
+}
