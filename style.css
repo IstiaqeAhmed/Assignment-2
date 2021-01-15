@@ -1,23 +1,33 @@
+/* .step img{
+    height: 80px;
+    margin-right: 20px;
+} */
 .button{
-    height: 50px;
-    padding-left: 50px;
-    text-align: center;
-    /* padding-left: 36px;
-    padding-right: 10px; */
-    border: 1px solid #000000;
-    url("Logo, Icon/shopping-cart\ 1.png") no-repeat 10px center;
-    cursor: pointer
+    position: absolute;
+    left: 52%;
+    background-color: darkblue;
+    border-radius: 15px;
+    box-shadow: 1px solid white;
+    bottom: 5%;
 }
-.footer {
-/* position: absolute; */
-left: 49.1%;
-right: 9.31%;
-top: 79.42%;
-bottom: 8.39%;
+h3{
+    font-family: 'Bebas Neue', cursive;
 }
-.casual{
-    height: 100%;
+.shop-cart{
+    position: absolute;
+    margin-top: -30%;
+    margin-left: 40%;
     width: 100%;
-    size: 100px;
- 
+    max-width: 550px;
+    height: auto;
 }
+.step img {
+    float: left;
+    width: 100px;
+    height: 100px;
+  }
+  .step h6, p {
+    position: relative;
+    top: 18px;
+    left: 10px;
+  }
